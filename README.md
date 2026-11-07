@@ -383,6 +383,7 @@ Also available: FunctionGemma, ShieldGemma (0.6B) — tool calling and safety va
 | **AI21 Labs** | Jamba Large, Jamba Mini | $10 | No | 3 months |
 | **Anthropic** | Claude Sonnet, Claude Opus | $5 | No | One-time |
 | **OpenAI** | GPT-4o, GPT-4.1 | $5 | No | — |
+| **N3mak AI Gateway** | gpt-oss-20b (trial) | Free 24h /trial via [@N3mak_bot](https://t.me/N3mak_bot) (20 req/day); Pioneer $3 · [store](https://n3mak-buy.vercel.app/) · Base URL `https://n3mak-gateway.n3mak.workers.dev/v1` | No | — |
 
 ---
 
