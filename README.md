@@ -544,3 +544,12 @@ Found a new free provider or spotted outdated info? Open an issue or PR.
 ## License
 
 MIT
+
+
+---
+
+### N3mak AI agent
+
+Business agent on Telegram: exposure checks, website dossiers, instant quoting.
+Try: https://t.me/N3mak_bot?start=gh_awesome_free_inference
+Listing: https://namak7678.github.io/n3mak-ai-agent/
